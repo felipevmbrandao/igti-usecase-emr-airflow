@@ -23,7 +23,7 @@ variable "lambda_function_name" {
 }
 
 variable "key_pair_name" {
-  default = "brandao_igti_teste"
+  default = "brandao_igti_teste2"
 }
 
 variable "airflow_subnet_id" {
