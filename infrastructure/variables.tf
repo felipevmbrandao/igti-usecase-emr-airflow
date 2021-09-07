@@ -34,3 +34,7 @@ variable "vpc_id" {
   default = "vpc-e5ec5b8e"
 }
 
+variable "numero_conta2" {
+  default = "784019095838"
+}
+
